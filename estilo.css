@@ -1,0 +1,14 @@
+ body{
+        background: #0C4B80;
+      }
+      * {
+        margin: 1px;
+        padding-right: 0px;
+      }
+      .video{
+        background: #00284d;
+      }
+      .login{
+        color: white;
+
+      }
